@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @alvinwquach
-- 👀 I’m an aspiring Front-End Developer 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+Hey there, I'm Alvin!
 
-<!---
-alvinwquach/alvinwquach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Marketer turned Front-End Developer
+
+HTML5, CSS3, Sass, JavaScript (ES6+), React, Firebase, RestAPI
+
+Web Development Bootcamp graduate from Juno College
+
+Currently seeking a role in front-end development
+
+How to reach me: alvinwquach@gmail.com
