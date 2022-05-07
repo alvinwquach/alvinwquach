@@ -2,7 +2,7 @@ Hey there, I'm Alvin!
 
 Marketer turned Front-End Developer
 
-HTML5, CSS3, Sass, TailwindCSS, MaterialUI, JavaScript (ES6+), TypeScript React, NextJS, Firebase, RestAPI, GraphQL
+HTML5, CSS3, Sass, TailwindCSS, MaterialUI, JavaScript (ES6+), TypeScript, React, NextJS, Firebase, RestAPI, GraphQL
 
 Web Development Bootcamp graduate from Juno College
 
