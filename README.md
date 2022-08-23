@@ -6,8 +6,6 @@ HTML5, CSS3, Sass, TailwindCSS, MaterialUI, JavaScript (ES6+), TypeScript, React
 
 Web Development Bootcamp graduate from Juno College
 
-Currently seeking a role in front-end development
-
-How to reach me: alvinwquach@gmail.com
+Email: alvinwquach@gmail.com
 
 Portfolio: https://alvinquach.me/
