@@ -1,11 +1,11 @@
-Hey there, I'm Alvin!
+## Hey there, I'm Alvin! (he/him)
 
-Marketer turned Front-End Developer
+### Front End Developer
 
-HTML5, CSS3, Sass, TailwindCSS, MaterialUI, JavaScript (ES6+), TypeScript, React, NextJS, Firebase, RestAPI, GraphQL, Jest, Sanity(Headless CMS), Figma
+#### Tech Stack: TypeScript, React, NextJS, CSS3, Sass, TailwindCSS, Firebase, RestAPI, ApolloGraphQL, GraphQL, Jest, Sanity, Stripe
 
-Web Development Bootcamp graduate from Juno College
+#### Currently learning/looking to learn: Redux, React Native, Express, SQL, PostgreSQL, MongoDB, Storybook
 
-Email: alvinwquach@gmail.com
+My site is live at https://alvinquach.me/
 
-Portfolio: https://alvinquach.me/
+
