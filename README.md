@@ -1,13 +1,8 @@
 ## Hey there, I'm Alvin! (he/him)
 
-### Front End Developer
+### Full Stack Developer
 
 #### Tech Stack: 
-TypeScript, React, NextJS, CSS3, Sass, TailwindCSS, Firebase, RestAPI, ApolloGraphQL, GraphQL, Jest, Sanity, Stripe
-
-#### Currently learning/looking to learn: 
-Redux, React Native, Express, SQL, PostgreSQL, MongoDB, Storybook
-
-My site is live at https://alvinquach.me/
+TypeScript, React, NextJS, SQL, PostgreSQL, Firebase, RestAPI, Apollo, GraphQL, Jest, Knex, Stripe, Sanity,  CSS3, Sass, TailwindCSS,
 
 
