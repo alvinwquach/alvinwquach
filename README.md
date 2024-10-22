@@ -1,5 +1,3 @@
-## Hey there, I'm Alvin!
-
 ### Full Stack Developer
 
 #### Tech Stack: 
